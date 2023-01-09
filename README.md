@@ -61,12 +61,12 @@ license="public domain"
 fit="contain">
 
 We can see that flowers naturally come in bundles. Their color has been described as white and creamy, with a center of yellow that fades out.
-<param ve-compare
+<param ve-image
 url="Plumeria_alba.jpg"
 label="closeup view of a plumeria flower"
 description="closeup view of a plumeria flower"
 license="public domain">
-<param ve-compare
+<param ve-image
 url="Plumeria-0006-Zachi-Evenor.jpg"
 label="distribution of plumeria flower cluster"
 description="distribution of plumeria flower cluster, notice the bundling of flowers"
