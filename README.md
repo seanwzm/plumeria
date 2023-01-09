@@ -62,7 +62,6 @@ fit="contain">
 
 We can see that flowers naturally come in bundles. Their color has been described as white and creamy, with a center of yellow that fades out.
 <param ve-compare
-curtain="true"
 url="Plumeria_alba.jpg"
 label="closeup view of a plumeria flower"
 description="closeup view of a plumeria flower"
