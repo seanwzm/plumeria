@@ -59,6 +59,7 @@ label="Plumerai alba"
 description="Plumeria botanical drawings"
 license="public domain"
 fit="contain">
+
 We can see that flowers naturally come in bundles. Their color has been described as white and creamy, with a center of yellow that fades out.
 <param ve-compare
 curtain="true"
