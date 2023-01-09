@@ -52,10 +52,23 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
 
 
-This is just for testing purposes. The <span data-mouseover-image-zoomto="125,291,674,281"> flower </span>of the plumeria is white and five-petalled. 
+This is just for testing purposes. The <span data-mouseover-image-zoomto="125,291,674,281"> flower </span>of the plumeria forms a distinc five-petal spiral.
 <param ve-image
 url="Plumeria_alba_Blanco1.39.jpg"
 label="Plumerai alba"
 description="Plumeria botanical drawings"
 license="public domain"
 fit="contain">
+We can see that flowers naturally come in bundles. Their color has been described as white and creamy, with a center of yellow that fades out.
+<param ve-compare
+curtain="true"
+url="Plumeria_alba.jpg"
+label="closeup view of a plumeria flower"
+description="closeup view of a plumeria flower"
+license="public domain">
+<param ve-compare
+curtain="true"
+url="Plumeria-0006-Zachi-Evenor.jpg"
+label="distribution of plumeria flower cluster"
+description="distribution of plumeria flower cluster, notice the bundling of flowers"
+license="public domain">
