@@ -52,7 +52,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
 
 
-This is just for testing purposes.
+This is just for testing purposes. The <span data-mouseover-image-zoomto="125,291,674,281"> flower </span>of the plumeria is white and five-petalled. 
 <param ve-image
 url="Plumeria_alba_Blanco1.39.jpg"
 label="Plumerai alba"
