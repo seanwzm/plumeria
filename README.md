@@ -68,7 +68,6 @@ label="closeup view of a plumeria flower"
 description="closeup view of a plumeria flower"
 license="public domain">
 <param ve-compare
-curtain="true"
 url="Plumeria-0006-Zachi-Evenor.jpg"
 label="distribution of plumeria flower cluster"
 description="distribution of plumeria flower cluster, notice the bundling of flowers"
